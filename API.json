@@ -678,13 +678,13 @@
             "name": "emtiaz",
             "method": "POST",
             "url": "https://web.emtiyaz.app/json/login",
-            "payload": "send=1&cellphone=0%s"
+            "data": "send=1&cellphone=0%s"
         },
         {
             "name": "azinja",
             "method": "POST",
             "url": "https://arzinja.app/api/login",
-            "payload": "------WebKitFormBoundarycIO8Y5lNAbbiVXKS\r\nContent-Disposition: form-data; name=\"mobile\"\r\n\r\n0%s\r\n------WebKitFormBoundarycIO8Y5lNAbbiVXKS--\r\n"
+            "data": "------WebKitFormBoundarycIO8Y5lNAbbiVXKS\r\nContent-Disposition: form-data; name=\"mobile\"\r\n\r\n0%s\r\n------WebKitFormBoundarycIO8Y5lNAbbiVXKS--\r\n"
         },
         {
             "name": "rubika",
@@ -703,7 +703,7 @@
             "name": "bama",
             "method": "POST",
             "url": "https://bama.ir/signin-checkforcellnumber",
-            "payload": "cellNumber=0%s"
+            "data": "cellNumber=0%s"
         },
         {
             "name": "digify",
@@ -775,7 +775,7 @@
             "name": "publisha",
             "method": "POST",
             "url": "https://www.pubisha.com/login/checkCustomerActivation",
-            "payload": "mobile=0%s"
+            "data": "mobile=0%s"
         },
         {
             "name": "snappdoctor",
@@ -788,7 +788,7 @@
             "name": "tagmond",
             "method": "POST",
             "url": "https://tagmond.com/phone_number",
-            "payload": "utf8=%E2%9C%93&phone_number=0%s&g-recaptcha-response="
+            "data": "utf8=%E2%9C%93&phone_number=0%s&g-recaptcha-response="
         },
         {
             "name": "doctoreto",
@@ -815,13 +815,13 @@
             "name": "pakhsh",
             "method": "POST",
             "url": "https://www.pakhsh.shop/wp-admin/admin-ajax.php",
-            "payload": "action=digits_check_mob&countrycode=%2B98&mobileNo=0%s&csrf=fdaa7fc8e6&login=2&username=&email=&captcha=&captcha_ses=&json=1&whatsapp=0"
+            "data": "action=digits_check_mob&countrycode=%2B98&mobileNo=0%s&csrf=fdaa7fc8e6&login=2&username=&email=&captcha=&captcha_ses=&json=1&whatsapp=0"
         },
         {
             "name": "didnegar",
             "method": "POST",
             "url": "https://www.didnegar.com/wp-admin/admin-ajax.php",
-            "payload": "action=digits_check_mob&countrycode=%2B98&mobileNo=%s&csrf=4c9ac22ff4&login=1&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&mobmail=0%s&dig_otp=&digits_login_remember_me=1&dig_nounce=4c9ac22ff4"
+            "data": "action=digits_check_mob&countrycode=%2B98&mobileNo=%s&csrf=4c9ac22ff4&login=1&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&mobmail=0%s&dig_otp=&digits_login_remember_me=1&dig_nounce=4c9ac22ff4"
         },
         {
             "name": "see5",
@@ -858,7 +858,7 @@
             "name": "drsaina",
             "method": "POST",
             "url": "https://www.drsaina.com/RegisterLogin?ReturnUrl=%2Fconsultation",
-            "payload": "__RequestVerificationToken=CfDJ8NPBKm5eTodHlBQhmwjQAVUgCtuEzkxhMWwcm9NyjTpueNnMgHEElSj7_JXmfrsstx9eCNrsZ5wiuLox0OSfoEvDvJtGb7NC5z6Hz7vMEL4sBlF37_OryYWJ0CCm4gpjmJN4BxSjZ24pukCJF2AQiWg&noLayout=False&action=checkIfUserExistOrNot&lId=&codeGuid=00000000-0000-0000-0000-000000000000&PhoneNumber=0%s&confirmCode=&fullName=&Password=&Password2="
+            "data": "__RequestVerificationToken=CfDJ8NPBKm5eTodHlBQhmwjQAVUgCtuEzkxhMWwcm9NyjTpueNnMgHEElSj7_JXmfrsstx9eCNrsZ5wiuLox0OSfoEvDvJtGb7NC5z6Hz7vMEL4sBlF37_OryYWJ0CCm4gpjmJN4BxSjZ24pukCJF2AQiWg&noLayout=False&action=checkIfUserExistOrNot&lId=&codeGuid=00000000-0000-0000-0000-000000000000&PhoneNumber=0%s&confirmCode=&fullName=&Password=&Password2="
         },
         {
             "name": "limome",
@@ -873,7 +873,7 @@
             "name": "devsloop",
             "method": "POST",
             "url": "https://i.devslop.app/app/ifollow/api/otp.php",
-            "payload": "number=0%s&state=number&"
+            "data": "number=0%s&state=number&"
         },
         {
             "name": "hiword",
@@ -887,7 +887,7 @@
             "name": "behzadshami",
             "method": "POST",
             "url": "https://behzadshami.com/wp-admin/admin-ajax.php",
-            "payload": "action=digits_check_mob&countrycode=%2B98&mobileNo=%s&csrf=3b4194a8bb&login=2&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&digits_reg_%D9%81%DB%8C%D9%84%D8%AF%D9%85%D8%AA%D9%86%DB%8C1642498931181=Nvgu&digregcode=%2B98&digits_reg_mail=%s&dig_otp=&code=&dig_reg_mail=&dig_nounce=3b4194a8bb"
+            "data": "action=digits_check_mob&countrycode=%2B98&mobileNo=%s&csrf=3b4194a8bb&login=2&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&digits_reg_%D9%81%DB%8C%D9%84%D8%AF%D9%85%D8%AA%D9%86%DB%8C1642498931181=Nvgu&digregcode=%2B98&digits_reg_mail=%s&dig_otp=&code=&dig_reg_mail=&dig_nounce=3b4194a8bb"
         },
         {
             "name": "ghasedak24",
@@ -1011,13 +1011,13 @@
             "name": "pirankalaco",
             "method": "POST",
             "url": "https://pirankalaco.ir/shop/SendPhone.php",
-            "payload": "phone=0%s"
+            "data": "phone=0%s"
         },
         {
             "name": "tnovin",
             "method": "POST",
             "url": "http://shop.tnovin.com/login",
-            "payload": "phone=0%s"
+            "data": "phone=0%s"
         },
         {
             "name": "dastakht",
@@ -1033,19 +1033,19 @@
             "name": "hamlex",
             "method": "POST",
             "url": "https://hamlex.ir/register.php",
-            "payload": "fullname=%D9%85%D9%85%D8%AF&phoneNumber=0%s&register="
+            "data": "fullname=%D9%85%D9%85%D8%AF&phoneNumber=0%s&register="
         },
         {
             "name": "irwco",
             "method": "POST",
             "url": "https://irwco.ir/register",
-            "payload": "mobile=0%s"
+            "data": "mobile=0%s"
         },
         {
             "name": "moshaveran724",
             "method": "POST",
             "url": "https://moshaveran724.ir/m/pms.php",
-            "payload": "againkey=0%s&cache=false"
+            "data": "againkey=0%s&cache=false"
         },
         {
             "name": "sibbank",
@@ -1059,7 +1059,7 @@
             "name": "steelalborz",
             "method": "POST",
             "url": "https://steelalborz.com/wp-admin/admin-ajax.php",
-            "payload": "action=digits_check_mob&countrycode=%2B98&mobileNo=0%s&csrf=2aae5b41f1&login=2&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&digregcode=%2B98&digits_reg_mail=0%s&dig_otp=&code=&dig_reg_mail=&dig_nounce=2aae5b41f1"
+            "data": "action=digits_check_mob&countrycode=%2B98&mobileNo=0%s&csrf=2aae5b41f1&login=2&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&digregcode=%2B98&digits_reg_mail=0%s&dig_otp=&code=&dig_reg_mail=&dig_nounce=2aae5b41f1"
         },
         {
             "name": "arshian",
@@ -1115,13 +1115,13 @@
             "name": "chaymarket",
             "method": "POST",
             "url": "https://www.chaymarket.com/wp-admin/admin-ajax.php",
-            "payload": "action=digits_check_mob&countrycode=%2B98&mobileNo=0%s&csrf=c832b38a97&login=2&username=&email=&captcha=&captcha_ses=&json=1&whatsapp=0"
+            "data": "action=digits_check_mob&countrycode=%2B98&mobileNo=0%s&csrf=c832b38a97&login=2&username=&email=&captcha=&captcha_ses=&json=1&whatsapp=0"
         },
         {
             "name": "coffefastfoodluxury",
             "method": "POST",
             "url": "https://coffefastfoodluxury.ir/wp-admin/admin-ajax.php",
-            "payload": "action=digits_check_mob&countrycode=%2B98&mobileNo=0%s&csrf=e23c15918c&login=2&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&digregcode=%2B98&digits_reg_mail=0%s&dig_otp=&code=&dig_reg_mail=&dig_nounce=e23c15918c"
+            "data": "action=digits_check_mob&countrycode=%2B98&mobileNo=0%s&csrf=e23c15918c&login=2&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&digregcode=%2B98&digits_reg_mail=0%s&dig_otp=&code=&dig_reg_mail=&dig_nounce=e23c15918c"
         },
         {
             "name": "dosma",
@@ -1211,7 +1211,7 @@
             "name": "rayshomar",
             "method": "POST",
             "url": "https://api.rayshomar.ir/api/Register/RegistrMobile",
-            "payload": "MobileNumber=0%s"
+            "data": "MobileNumber=0%s"
         },
         {
             "name": "amoomilad",
@@ -1228,25 +1228,25 @@
             "name": "ashrafi",
             "method": "POST",
             "url": "https://ashraafi.com/wp-admin/admin-ajax.php",
-            "payload": "action=digits_check_mob&countrycode=%2B98&mobileNo=%s&csrf=54dfdabe34&login=1&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&mobmail=%s&dig_otp=&dig_nounce=54dfdabe34"
+            "data": "action=digits_check_mob&countrycode=%2B98&mobileNo=%s&csrf=54dfdabe34&login=1&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&mobmail=%s&dig_otp=&dig_nounce=54dfdabe34"
         },
         {
             "name": "bandarazad",
             "method": "POST",
             "url": "https://bandarazad.com/wp-admin/admin-ajax.php",
-            "payload": "action=digits_check_mob&countrycode=%2B98&mobileNo=0%s&csrf=ec10ccb02a&login=2&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&digregcode=%2B98&digits_reg_mail=0%s&digits_reg_password=fuckYOU&dig_otp=&code=&dig_reg_mail=&dig_nounce=ec10ccb02a"
+            "data": "action=digits_check_mob&countrycode=%2B98&mobileNo=0%s&csrf=ec10ccb02a&login=2&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&digregcode=%2B98&digits_reg_mail=0%s&digits_reg_password=fuckYOU&dig_otp=&code=&dig_reg_mail=&dig_nounce=ec10ccb02a"
         },
         {
             "name": "bazidone",
             "method": "POST",
             "url": "https://bazidone.com/wp-admin/admin-ajax.php",
-            "payload": "action=digits_check_mob&countrycode=%2B98&mobileNo=%s&csrf=c0f5d0dcf2&login=1&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&mobmail=0%s&dig_otp=&digits_login_remember_me=1&dig_nounce=c0f5d0dcf2"
+            "data": "action=digits_check_mob&countrycode=%2B98&mobileNo=%s&csrf=c0f5d0dcf2&login=1&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&mobmail=0%s&dig_otp=&digits_login_remember_me=1&dig_nounce=c0f5d0dcf2"
         },
         {
             "name": "bigtoys",
             "method": "POST",
             "url": "https://www.bigtoys.ir/wp-admin/admin-ajax.php",
-            "payload": "action=digits_check_mob&countrycode=%2B98&mobileNo=0%s&csrf=94cf3ad9a4&login=2&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&digits_reg_name=%D8%A8%DB%8C%D8%A8%D9%84%DB%8C%D9%84&digregcode=%2B98&digits_reg_mail=0%s&digregscode2=%2B98&mobmail2=&digits_reg_password=&dig_otp=&code=&dig_reg_mail=&dig_nounce=94cf3ad9a4"
+            "data": "action=digits_check_mob&countrycode=%2B98&mobileNo=0%s&csrf=94cf3ad9a4&login=2&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&digits_reg_name=%D8%A8%DB%8C%D8%A8%D9%84%DB%8C%D9%84&digregcode=%2B98&digits_reg_mail=0%s&digregscode2=%2B98&mobmail2=&digits_reg_password=&dig_otp=&code=&dig_reg_mail=&dig_nounce=94cf3ad9a4"
         },
         {
             "name": "bitex24",
@@ -1258,43 +1258,43 @@
             "name": "candoosms",
             "method": "POST",
             "url": "https://www.candoosms.com/wp-admin/admin-ajax.php",
-            "payload": "action=send_sms&phone=0%s"
+            "data": "action=send_sms&phone=0%s"
         },
         {
             "name": "farsgraphic",
             "method": "POST",
             "url": "https://farsgraphic.com/wp-admin/admin-ajax.php",
-            "payload": "action=digits_check_mob&countrycode=%2B98&mobileNo=%s&csrf=79a35b4aa3&login=2&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&digits_reg_name=%D9%86%DB%8C%D9%85%D9%86%D9%85%D9%85%D9%86%DB%8C%D8%B3&digits_reg_lastname=%D9%85%D9%86%D8%B3%DB%8C%D8%B2%D8%AA%D9%86&digregscode2=%2B98&mobmail2=&digregcode=%2B98&digits_reg_mail=%s&dig_otp=&code=&dig_reg_mail=&dig_nounce=79a35b4aa3"
+            "data": "action=digits_check_mob&countrycode=%2B98&mobileNo=%s&csrf=79a35b4aa3&login=2&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&digits_reg_name=%D9%86%DB%8C%D9%85%D9%86%D9%85%D9%85%D9%86%DB%8C%D8%B3&digits_reg_lastname=%D9%85%D9%86%D8%B3%DB%8C%D8%B2%D8%AA%D9%86&digregscode2=%2B98&mobmail2=&digregcode=%2B98&digits_reg_mail=%s&dig_otp=&code=&dig_reg_mail=&dig_nounce=79a35b4aa3"
         },
         {
             "name": "glite",
             "method": "POST",
             "url": "https://www.glite.ir/wp-admin/admin-ajax.php",
-            "payload": "action=logini_first&login=0%s"
+            "data": "action=logini_first&login=0%s"
         },
         {
             "name": "hemat",
             "method": "POST",
             "url": "https://shop.hemat-elec.ir/wp-admin/admin-ajax.php",
-            "payload": "action=digits_check_mob&countrycode=%2B98&mobileNo=0%s&csrf=d33076d828&login=2&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&digregscode2=%2B98&mobmail2=&digregcode=%2B98&digits_reg_mail=0%s&digits_reg_password=mahyar125&dig_otp=&code=&dig_reg_mail=&dig_nounce=d33076d828"
+            "data": "action=digits_check_mob&countrycode=%2B98&mobileNo=0%s&csrf=d33076d828&login=2&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&digregscode2=%2B98&mobmail2=&digregcode=%2B98&digits_reg_mail=0%s&digits_reg_password=mahyar125&dig_otp=&code=&dig_reg_mail=&dig_nounce=d33076d828"
         },
         {
             "name": "kodakamoz",
             "method": "POST",
             "url": "https://www.kodakamoz.com/wp-admin/admin-ajax.php",
-            "payload": "action=digits_check_mob&countrycode=%2B98&mobileNo=0%s&csrf=18551366bc&login=2&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&digits_reg_lastname=%D9%84%D8%A8%D8%A8%DB%8C%DB%8C%D8%A8%D8%AB%D9%82%D8%AD&digits_reg_displayname=%D8%A8%D8%A8%D8%A8%DB%8C%D8%B1%D8%A8%D9%84%D9%84%DB%8C%D8%A8%D9%84&digregscode2=%2B98&mobmail2=&digregcode=%2B98&digits_reg_mail=0%s&digits_reg_password=&digits_reg_avansbirthdate=2003-03-21&jalali_digits_reg_avansbirthdate1867119037=1382-01-01&dig_otp=&code=&dig_reg_mail=&dig_nounce=18551366bc"
+            "data": "action=digits_check_mob&countrycode=%2B98&mobileNo=0%s&csrf=18551366bc&login=2&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&digits_reg_lastname=%D9%84%D8%A8%D8%A8%DB%8C%DB%8C%D8%A8%D8%AB%D9%82%D8%AD&digits_reg_displayname=%D8%A8%D8%A8%D8%A8%DB%8C%D8%B1%D8%A8%D9%84%D9%84%DB%8C%D8%A8%D9%84&digregscode2=%2B98&mobmail2=&digregcode=%2B98&digits_reg_mail=0%s&digits_reg_password=&digits_reg_avansbirthdate=2003-03-21&jalali_digits_reg_avansbirthdate1867119037=1382-01-01&dig_otp=&code=&dig_reg_mail=&dig_nounce=18551366bc"
         },
         {
             "name": "mipersia",
             "method": "POST",
             "url": "https://www.mipersia.com/wp-admin/admin-ajax.php",
-            "payload": "action=digits_check_mob&countrycode=%2B98&mobileNo=0%s&csrf=2d39af0a72&login=2&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&digregcode=%2B98&digits_reg_mail=0%s&digregscode2=%2B98&mobmail2=&dig_otp=&code=&dig_reg_mail=&dig_nounce=2d39af0a72"
+            "data": "action=digits_check_mob&countrycode=%2B98&mobileNo=0%s&csrf=2d39af0a72&login=2&username=&email=&captcha=&captcha_ses=&digits=1&json=1&whatsapp=0&digregcode=%2B98&digits_reg_mail=0%s&digregscode2=%2B98&mobmail2=&dig_otp=&code=&dig_reg_mail=&dig_nounce=2d39af0a72"
         },
         {
             "name": "novibook",
             "method": "POST",
             "url": "https://novinbook.com/index.php?route=account/phone",
-            "payload": "phone=0%s"
+            "data": "phone=0%s"
         },
         {
             "name": "offch",
@@ -1308,13 +1308,13 @@
             "name": "sabziman",
             "method": "POST",
             "url": "https://sabziman.com/wp-admin/admin-ajax.php",
-            "payload": "action=newphoneexist&phonenumber=0%s"
+            "data": "action=newphoneexist&phonenumber=0%s"
         },
         {
             "name": "tajtehran",
             "method": "POST",
             "url": "https://tajtehran.com/RegisterRequest",
-            "payload": "mobile=0%s&password=mamad1234"
+            "data": "mobile=0%s&password=mamad1234"
         },
         {
             "name": "mrbilitcall",
@@ -1338,7 +1338,7 @@
             "name": "novinbook_call",
             "method": "POST",
             "url": "https://novinbook.com/index.php?route=account/phone",
-            "payload": "phone=0%s&call=yes"
+            "data": "phone=0%s&call=yes"
         },
         {
             "name": "azki",
