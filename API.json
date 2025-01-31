@@ -5,7 +5,7 @@
             "method": "POST",
             "url": "https://app.snapp.taxi/api/api-passenger-oauth/v2/otp",
             "payload": {
-                "cellphone": "+98%S"
+                "cellphone": "+98%s"
             },
             "data": null
         },
@@ -15,7 +15,7 @@
             "url": "https://tap33.me/api/v2/user",
             "payload": {
                 "credential": {
-                    "phoneNumber": "0%S",
+                    "phoneNumber": "0%s",
                     "role": "PASSENGER"
                 }
             },
