@@ -2,8 +2,8 @@
 
 This repository serves as a storage solution for various files. Below, you'll find an overview of the total file count and a directory structure of the stored files.
 
-- **Total Files:** `5` 📁
-- **Updated at:** `2025-05-03 18:35:39 UTC` 🕒
+- **Total Files:** `6` 📁
+- **Updated at:** `2025-05-06 16:40:41 UTC` 🕒
 
 ## Directory Structure 📂
 
@@ -14,6 +14,7 @@ files/
 ├── bin
 │   ├── dm_cleaner
 │   └── dm_cleaner.exe
+├── ghablame.exe
 ├── images
 │   └── folder.png
 └── khiar
